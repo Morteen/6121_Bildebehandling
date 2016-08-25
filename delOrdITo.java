@@ -22,5 +22,6 @@ public class delOrdITo {
    out.println(utOrd1);
    out.println(utOrd2);
   }//main
+  /* Dette ere bare en test komentar*/
 
 }//class
